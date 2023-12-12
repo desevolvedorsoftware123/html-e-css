@@ -1,0 +1,89 @@
+*@charset"uft8"
+    {
+    font-size: medium;
+     }
+    body{
+       background-color: rgb(214, 241, 91);
+    }
+    .titulo{
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    nav{
+        
+        padding: 3px;
+    
+    }
+    p{
+        font-size: 16px;
+    text-indent: 30px;
+    text-align:left;
+    }
+    mark{}
+    nav > a {
+         text-decoration: none;
+        margin-right: 50px;
+        font-weight: bold;
+        color: rgb(187, 171, 171);
+        font-size: 20px;
+    }
+    .main2{
+        background-color: green;
+    }
+    .center{
+        text-align: center;
+    }
+    nav a :hover{
+        text-decoration: overline;
+        
+        
+
+    }
+    .imagi{
+        height: 110px;
+        width: 800px;
+   
+    
+    }
+    header{
+         background-image: linear-gradient(to right , rgb(0, 225, 255), rgba(2, 31, 2, 0.705));
+         background-color: blue;
+         padding: 9px;
+         margin: -8px -8px 1px -8px
+         
+         
+         
+    }
+    #sub{
+        text-align: center;
+        color: white;
+        font-size: 25px;
+    }
+    main{
+        width: 800px;
+        padding: 5px;
+        margin: auto;
+        box-shadow: 10px black;
+        background-color: white;
+    }
+    h1{
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       color: rgba(0, 0, 0, 0.774)
+    }
+    h2{
+        background-image: linear-gradient(to right , rgba(46, 3, 87, 0.637) , rgba(254, 255, 254, 0.336) );
+    }
+    .maei{
+        font-size: 19px;
+    }
+    .ultima{
+        background-color: rgb(114, 230, 114);
+        margin: auto;
+        
+        box-shadow: 4px 4px 4px 4px black;
+        
+    }
+    h3{
+        background-color: rgb(6, 94, 6);
+    }
+    
